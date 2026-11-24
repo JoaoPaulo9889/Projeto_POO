@@ -82,6 +82,8 @@ altura_menu = int(
 
 imagem_menu = pygame.transform.scale(
     imagem_do_menu,
+    
+    
     (largura_menu, altura_menu)
 )
 
